@@ -1,0 +1,5 @@
+{
+  "name": "Mirage Tank Factory",
+  "description": "A professional tool to generate 'Mirage Tank' images (translucent PNGs that look different on white vs. black backgrounds) using advanced pixel manipulation.",
+  "requestFramePermissions": []
+}
